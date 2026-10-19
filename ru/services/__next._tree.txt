@@ -1,0 +1,7 @@
+:HL["/dracoudis-demo/_next/static/chunks/3f91054f60e41d68.css","style"]
+:HL["/dracoudis-demo/_next/static/media/32fdb56ff980a82d-s.p.2d7a8c2d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/dracoudis-demo/_next/static/media/6ef2182d98592a16-s.p.8ce20ef5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/dracoudis-demo/_next/static/media/797e433ab948586e-s.p.29207c2f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/dracoudis-demo/_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/dracoudis-demo/_next/static/media/d4afdc0a39bf396d-s.p.5e057223.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"buildId":"gzGr7RoOJs9zZkDzTcKX_","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"locale","paramType":"d","paramKey":"ru","hasRuntimePrefetch":false,"slots":{"children":{"name":"services","paramType":null,"paramKey":"services","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true}},"isRootLayout":false},"staleTime":300}

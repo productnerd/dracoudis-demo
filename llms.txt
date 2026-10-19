@@ -1,0 +1,38 @@
+# Dracoudis Aluminium
+
+> Family-owned aluminium and metal fabrication company in Cyprus since 1965. Aluminium fences, pergolas and railings, decking, iron railings, polycarbonate sheets, photovoltaic systems (Deye inverters and batteries, TCL panels, aluminium mounting systems) and stainless steel, for homes and businesses across Cyprus. The site is available in English, Greek, German and Russian.
+
+## Contact
+
+- Phone: +357 77 77 18 18
+- Email: info@dracoudis.com
+- Opening hours: Monday to Friday, 07:30-16:30
+- Limassol headquarters: 145 Franklyn Roosevelt Ave, Limassol 3045, Cyprus. Tel +357 25 57 59 27
+- Larnaca branch: Aradipou Industrial Area, Larnaca 7101, Cyprus. Tel +357 24 36 34 36
+
+## Pages
+
+- [Home](https://www.dracoudis.com/en)
+- [About us](https://www.dracoudis.com/en/about-us)
+- [All services](https://www.dracoudis.com/en/services)
+
+## Services
+
+- [Aluminium Fences](https://www.dracoudis.com/en/services/aluminium-fences): Powder-coated fences in custom heights and colours, built to last with almost no maintenance.
+- [Aluminium Pergolas](https://www.dracoudis.com/en/services/aluminium-pergolas): Pergolas with adjustable louvred roofs, optional motors and LED lighting, made to measure.
+- [Aluminium Railings](https://www.dracoudis.com/en/services/aluminium-railings): Glass and aluminium railings for balconies, staircases and terraces, safe and corrosion-resistant.
+- [Decking](https://www.dracoudis.com/en/services/decking): Slip-resistant, UV-resistant composite and aluminium decking for pools and terraces.
+- [Iron Railings](https://www.dracoudis.com/en/services/iron-railings): Ornamental wrought iron railings, hot-dip galvanised, custom made or restored.
+- [Polycarbonate Sheets](https://www.dracoudis.com/en/services/polycarbonate-sheets): Solid and multi-wall roofing sheets with UV protection, cut to size for your project.
+- [Photovoltaic Systems](https://www.dracoudis.com/en/services/photovoltaic-systems): Roof and ground mounting structures and complete solar installations, on-grid or off-grid.
+- [Stainless Steel](https://www.dracoudis.com/en/services/stainless-steel): Marine-grade balustrades, handrails and custom pieces in a polished or brushed finish.
+
+## Tools
+
+- [PV System Simulator](https://tools.dracoudis.com/tools/solar-model/): for installers, engineers and designers to model a photovoltaic system's output and sizing before quoting (free account required).
+
+## Other languages
+
+- Greek: https://www.dracoudis.com/el
+- German: https://www.dracoudis.com/de
+- Russian: https://www.dracoudis.com/ru
